@@ -1,0 +1,40 @@
+{
+  "mbko": {
+    "gender": "M",
+    "age": 27,
+    "glasses": "no",
+    "trials": {
+      "0": {
+        "trial_folder": "sessions\\mbko\\20250908_T0",
+        "timestamp": "2025-09-08 13:44:20",
+        "patterns": {}
+      },
+      "1": {
+        "trial_folder": "sessions\\mbko\\20250908_T1",
+        "timestamp": "2025-09-08 13:49:47",
+        "patterns": {
+          "grid": {
+            "event_log": "sessions\\mbko\\20250908_T1\\grid\\event_log.csv",
+            "fixation_coords": "sessions\\mbko\\20250908_T1\\grid\\fixation_coords.csv",
+            "frames_dir": "sessions\\mbko\\20250908_T1\\grid\\frames"
+          },
+          "circle": {
+            "event_log": "sessions\\mbko\\20250908_T1\\circle\\event_log.csv",
+            "fixation_coords": "sessions\\mbko\\20250908_T1\\circle\\fixation_coords.csv",
+            "frames_dir": "sessions\\mbko\\20250908_T1\\circle\\frames"
+          },
+          "line": {
+            "event_log": "sessions\\mbko\\20250908_T1\\line\\event_log.csv",
+            "fixation_coords": "sessions\\mbko\\20250908_T1\\line\\fixation_coords.csv",
+            "frames_dir": "sessions\\mbko\\20250908_T1\\line\\frames"
+          },
+          "random": {
+            "event_log": "sessions\\mbko\\20250908_T1\\random\\event_log.csv",
+            "fixation_coords": "sessions\\mbko\\20250908_T1\\random\\fixation_coords.csv",
+            "frames_dir": "sessions\\mbko\\20250908_T1\\random\\frames"
+          }
+        }
+      }
+    }
+  }
+}
